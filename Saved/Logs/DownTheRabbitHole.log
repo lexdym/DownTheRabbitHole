@@ -4964,3 +4964,537 @@ LogInit: Object subsystem initialized
 [2017.03.06-23.18.41:980][739]MapCheck:Error: Error WorldInfo_0 Maps need lighting rebuilt 
 [2017.03.06-23.18.42:099][739]MapCheck: Info Map check complete: 1 Error(s), 44 Warning(s), took 129.916ms to complete.
 [2017.03.06-23.18.42:122][739]LogEditorBuildUtils: Build time 0:46
+[2017.03.06-23.21.05:450][504]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning Node  K2Node_Literal_118  is not referencing a valid level actor
+[2017.03.06-23.21.05:452][504]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [3151.49] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 1 Warning(s) [in 16 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.21.05:453][504]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [3151.49] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 2 Warning(s) [in 0 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.21.05:453][504]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [3151.49] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 3 Warning(s) [in 0 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.21.05:572][504]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [3151.61] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 4 Warning(s) [in 118 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.21.05:572][504]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [3151.61] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 5 Warning(s) [in 0 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.21.05:572][504]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [3151.61] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 6 Warning(s) [in 0 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.21.07:761][504]LogSavePackage: Save=2342.03ms
+[2017.03.06-23.21.07:762][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/FirstPersonExampleMap_Auto374BA287547F8EACAFCEB8FB170674466.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2017.03.06-23.21.07:765][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap
+[2017.03.06-23.21.08:143][504]LogSavePackage: Save=181.93ms
+[2017.03.06-23.21.08:143][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/FirstPersonExampleMap_BuiltData075CE6E54470BE5B19EA2AB5EFE00176.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2017.03.06-23.21.08:149][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2017.03.06-23.21.08:150][504]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 2.782
+[2017.03.06-23.21.08:150][504]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.782
+[2017.03.06-23.21.08:153][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/Kitchen/fridge/American_style_fridge_freezer_1] ([1] browsable assets)...
+[2017.03.06-23.21.08:255][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/Kitchen/fridge/American_style_fridge_freezer_1.American_style_fridge_freezer_1]
+[2017.03.06-23.21.08:255][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/Kitchen/fridge/American_style_fridge_freezer_1]
+[2017.03.06-23.21.08:276][504]LogSavePackage: Save=19.40ms
+[2017.03.06-23.21.08:276][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/American_style_fridge_freezer_1_Auto320F27C304AC8E27AB14B1EA53195BABD.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/Kitchen/fridge/American_style_fridge_freezer_1_Auto3.uasset'
+[2017.03.06-23.21.08:278][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/Kitchen/fridge/American_style_fridge_freezer_1_Auto3.uasset
+[2017.03.06-23.21.08:279][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/Kitchen/fridge/American_style_fridge_freezer_5] ([1] browsable assets)...
+[2017.03.06-23.21.08:296][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/Kitchen/fridge/American_style_fridge_freezer_5.American_style_fridge_freezer_5]
+[2017.03.06-23.21.08:296][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/Kitchen/fridge/American_style_fridge_freezer_5]
+[2017.03.06-23.21.08:316][504]LogSavePackage: Save=18.78ms
+[2017.03.06-23.21.08:316][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/American_style_fridge_freezer_5_Auto3EB76109C43B3E3A33D9BAB944475E855.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/Kitchen/fridge/American_style_fridge_freezer_5_Auto3.uasset'
+[2017.03.06-23.21.08:317][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/Kitchen/fridge/American_style_fridge_freezer_5_Auto3.uasset
+[2017.03.06-23.21.08:318][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/Kitchen/fridge/newkitchsetup/Color_008] ([1] browsable assets)...
+[2017.03.06-23.21.08:335][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/Kitchen/fridge/newkitchsetup/Color_008.Color_008]
+[2017.03.06-23.21.08:335][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/Kitchen/fridge/newkitchsetup/Color_008]
+[2017.03.06-23.21.08:360][504]LogSavePackage: Save=21.29ms
+[2017.03.06-23.21.08:360][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Color_008_Auto3AF1F5E5944C5D384B7964092F6EAD4E6.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/Kitchen/fridge/newkitchsetup/Color_008_Auto3.uasset'
+[2017.03.06-23.21.08:361][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/Kitchen/fridge/newkitchsetup/Color_008_Auto3.uasset
+[2017.03.06-23.21.08:362][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bedroom/material_1] ([1] browsable assets)...
+[2017.03.06-23.21.08:403][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bedroom/material_1.material_1]
+[2017.03.06-23.21.08:403][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bedroom/material_1]
+[2017.03.06-23.21.08:425][504]LogSavePackage: Save=20.42ms
+[2017.03.06-23.21.08:425][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/material_1_Auto3457D1B944E0548CF37B53F97EC78E27A.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bedroom/material_1_Auto3.uasset'
+[2017.03.06-23.21.08:427][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bedroom/material_1_Auto3.uasset
+[2017.03.06-23.21.08:427][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bedroom/Metal_Hardware_1] ([1] browsable assets)...
+[2017.03.06-23.21.08:444][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bedroom/Metal_Hardware_1.Metal_Hardware_1]
+[2017.03.06-23.21.08:444][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bedroom/Metal_Hardware_1]
+[2017.03.06-23.21.08:467][504]LogSavePackage: Save=20.92ms
+[2017.03.06-23.21.08:467][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Metal_Hardware_1_Auto32565EA56416DFE6B7C51D8ACDAD048C9.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bedroom/Metal_Hardware_1_Auto3.uasset'
+[2017.03.06-23.21.08:469][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bedroom/Metal_Hardware_1_Auto3.uasset
+[2017.03.06-23.21.08:469][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bedroom/material_0] ([1] browsable assets)...
+[2017.03.06-23.21.08:485][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bedroom/material_0.material_0]
+[2017.03.06-23.21.08:485][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bedroom/material_0]
+[2017.03.06-23.21.08:505][504]LogSavePackage: Save=18.28ms
+[2017.03.06-23.21.08:505][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/material_0_Auto3F6D1869C4CE5A7F401A4BEA8F628FF7A.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bedroom/material_0_Auto3.uasset'
+[2017.03.06-23.21.08:507][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bedroom/material_0_Auto3.uasset
+[2017.03.06-23.21.08:507][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bedroom/material1] ([1] browsable assets)...
+[2017.03.06-23.21.08:523][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bedroom/material1.material1]
+[2017.03.06-23.21.08:523][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bedroom/material1]
+[2017.03.06-23.21.08:544][504]LogSavePackage: Save=18.92ms
+[2017.03.06-23.21.08:545][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/material1_Auto35B79F3B54D866611C7CB5D9419EFEEAA.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bedroom/material1_Auto3.uasset'
+[2017.03.06-23.21.08:546][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bedroom/material1_Auto3.uasset
+[2017.03.06-23.21.08:546][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bedroom/Metal_Hardware] ([1] browsable assets)...
+[2017.03.06-23.21.08:563][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bedroom/Metal_Hardware.Metal_Hardware]
+[2017.03.06-23.21.08:563][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bedroom/Metal_Hardware]
+[2017.03.06-23.21.08:587][504]LogSavePackage: Save=21.10ms
+[2017.03.06-23.21.08:587][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Metal_Hardware_Auto31272DACA4495876953DC0E90E03052D2.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bedroom/Metal_Hardware_Auto3.uasset'
+[2017.03.06-23.21.08:588][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bedroom/Metal_Hardware_Auto3.uasset
+[2017.03.06-23.21.08:589][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bedroom/Reflective_Metal] ([1] browsable assets)...
+[2017.03.06-23.21.08:606][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bedroom/Reflective_Metal.Reflective_Metal]
+[2017.03.06-23.21.08:606][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bedroom/Reflective_Metal]
+[2017.03.06-23.21.08:627][504]LogSavePackage: Save=18.83ms
+[2017.03.06-23.21.08:627][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Reflective_Metal_Auto3DD87CFA24C04658A005FAC86B8F5A249.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bedroom/Reflective_Metal_Auto3.uasset'
+[2017.03.06-23.21.08:629][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bedroom/Reflective_Metal_Auto3.uasset
+[2017.03.06-23.21.08:629][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/__White_] ([1] browsable assets)...
+[2017.03.06-23.21.08:645][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/__White_.__White_]
+[2017.03.06-23.21.08:645][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/__White_]
+[2017.03.06-23.21.08:665][504]LogSavePackage: Save=17.87ms
+[2017.03.06-23.21.08:665][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/__White__Auto3B8875F604F552799F51C12B2EC1116F8.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/__White__Auto3.uasset'
+[2017.03.06-23.21.08:666][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/__White__Auto3.uasset
+[2017.03.06-23.21.08:667][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/Color_0015] ([1] browsable assets)...
+[2017.03.06-23.21.08:683][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/Color_0015.Color_0015]
+[2017.03.06-23.21.08:683][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/Color_0015]
+[2017.03.06-23.21.08:702][504]LogSavePackage: Save=17.61ms
+[2017.03.06-23.21.08:702][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Color_0015_Auto32AB95BBA45E5B38BBA17EAB23E0E00AF.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/Color_0015_Auto3.uasset'
+[2017.03.06-23.21.08:704][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/Color_0015_Auto3.uasset
+[2017.03.06-23.21.08:704][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/Color_0016] ([1] browsable assets)...
+[2017.03.06-23.21.08:721][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/Color_0016.Color_0016]
+[2017.03.06-23.21.08:721][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/Color_0016]
+[2017.03.06-23.21.08:740][504]LogSavePackage: Save=17.09ms
+[2017.03.06-23.21.08:740][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Color_0016_Auto307771C5F492C3E64E5302FB3863F5D50.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/Color_0016_Auto3.uasset'
+[2017.03.06-23.21.08:742][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/Color_0016_Auto3.uasset
+[2017.03.06-23.21.08:742][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/material_113] ([1] browsable assets)...
+[2017.03.06-23.21.08:758][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/material_113.material_113]
+[2017.03.06-23.21.08:758][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/material_113]
+[2017.03.06-23.21.08:778][504]LogSavePackage: Save=17.36ms
+[2017.03.06-23.21.08:778][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/material_113_Auto3930B5CF244895CAFEF32D7AC5C3840E8.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material_113_Auto3.uasset'
+[2017.03.06-23.21.08:779][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material_113_Auto3.uasset
+[2017.03.06-23.21.08:779][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/material3] ([1] browsable assets)...
+[2017.03.06-23.21.08:822][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/material3.material3]
+[2017.03.06-23.21.08:822][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/material3]
+[2017.03.06-23.21.08:840][504]LogSavePackage: Save=16.08ms
+[2017.03.06-23.21.08:840][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/material3_Auto386B3A6434AF6E00BFF419C8ADF0F4FD1.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material3_Auto3.uasset'
+[2017.03.06-23.21.08:841][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material3_Auto3.uasset
+[2017.03.06-23.21.08:841][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/ceramic_white2] ([1] browsable assets)...
+[2017.03.06-23.21.08:857][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/ceramic_white2.ceramic_white2]
+[2017.03.06-23.21.08:857][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/ceramic_white2]
+[2017.03.06-23.21.08:876][504]LogSavePackage: Save=16.41ms
+[2017.03.06-23.21.08:876][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/ceramic_white2_Auto326EC76BB420BB3F07FF8E6AB4165E66C.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/ceramic_white2_Auto3.uasset'
+[2017.03.06-23.21.08:884][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/ceramic_white2_Auto3.uasset
+[2017.03.06-23.21.08:885][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/Water_Sparkling] ([1] browsable assets)...
+[2017.03.06-23.21.08:900][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/Water_Sparkling.Water_Sparkling]
+[2017.03.06-23.21.08:900][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/Water_Sparkling]
+[2017.03.06-23.21.08:923][504]LogSavePackage: Save=20.73ms
+[2017.03.06-23.21.08:923][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Water_Sparkling_Auto3E6F551674688CF71A2517A83DAF3D7F4.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/Water_Sparkling_Auto3.uasset'
+[2017.03.06-23.21.08:925][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/Water_Sparkling_Auto3.uasset
+[2017.03.06-23.21.08:926][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/Metal_Corrogated_Shiny3] ([1] browsable assets)...
+[2017.03.06-23.21.08:942][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/Metal_Corrogated_Shiny3.Metal_Corrogated_Shiny3]
+[2017.03.06-23.21.08:942][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/Metal_Corrogated_Shiny3]
+[2017.03.06-23.21.08:962][504]LogSavePackage: Save=18.04ms
+[2017.03.06-23.21.08:962][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Metal_Corrogated_Shiny3_Auto32719DA1C48A843756DDAAFBEB16DFE89.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/Metal_Corrogated_Shiny3_Auto3.uasset'
+[2017.03.06-23.21.08:963][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/Metal_Corrogated_Shiny3_Auto3.uasset
+[2017.03.06-23.21.08:964][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/material_51] ([1] browsable assets)...
+[2017.03.06-23.21.08:979][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/material_51.material_51]
+[2017.03.06-23.21.08:979][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/material_51]
+[2017.03.06-23.21.08:999][504]LogSavePackage: Save=16.65ms
+[2017.03.06-23.21.08:999][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/material_51_Auto3A87F0F184875A186CA37359D5A790A8A.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material_51_Auto3.uasset'
+[2017.03.06-23.21.09:000][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material_51_Auto3.uasset
+[2017.03.06-23.21.09:002][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/material_53] ([1] browsable assets)...
+[2017.03.06-23.21.09:022][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/material_53.material_53]
+[2017.03.06-23.21.09:022][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/material_53]
+[2017.03.06-23.21.09:043][504]LogSavePackage: Save=19.17ms
+[2017.03.06-23.21.09:043][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/material_53_Auto37F3DCD1B4F2134868D3B669F733B466E.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material_53_Auto3.uasset'
+[2017.03.06-23.21.09:044][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material_53_Auto3.uasset
+[2017.03.06-23.21.09:045][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/__CorrogateShiny_] ([1] browsable assets)...
+[2017.03.06-23.21.09:061][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/__CorrogateShiny_.__CorrogateShiny_]
+[2017.03.06-23.21.09:061][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/__CorrogateShiny_]
+[2017.03.06-23.21.09:081][504]LogSavePackage: Save=18.34ms
+[2017.03.06-23.21.09:081][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/__CorrogateShiny__Auto320541D2846B7D2D1BC4A53892697D48C.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/__CorrogateShiny__Auto3.uasset'
+[2017.03.06-23.21.09:082][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/__CorrogateShiny__Auto3.uasset
+[2017.03.06-23.21.09:083][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/material1] ([1] browsable assets)...
+[2017.03.06-23.21.09:099][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/material1.material1]
+[2017.03.06-23.21.09:099][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/material1]
+[2017.03.06-23.21.09:120][504]LogSavePackage: Save=18.16ms
+[2017.03.06-23.21.09:120][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/material1_Auto31A644EF94067B2F6741D739D39BD958A.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material1_Auto3.uasset'
+[2017.03.06-23.21.09:121][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material1_Auto3.uasset
+[2017.03.06-23.21.09:122][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/material_114] ([1] browsable assets)...
+[2017.03.06-23.21.09:138][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/material_114.material_114]
+[2017.03.06-23.21.09:138][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/material_114]
+[2017.03.06-23.21.09:158][504]LogSavePackage: Save=17.82ms
+[2017.03.06-23.21.09:158][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/material_114_Auto372DC3EBB4FFB292FEE1271AF5326B5BA.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material_114_Auto3.uasset'
+[2017.03.06-23.21.09:159][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material_114_Auto3.uasset
+[2017.03.06-23.21.09:160][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/material_19] ([1] browsable assets)...
+[2017.03.06-23.21.09:176][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/material_19.material_19]
+[2017.03.06-23.21.09:176][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/material_19]
+[2017.03.06-23.21.09:199][504]LogSavePackage: Save=20.82ms
+[2017.03.06-23.21.09:199][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/material_19_Auto386F78A724E1AE4E003FDDFA940C6FEC3.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material_19_Auto3.uasset'
+[2017.03.06-23.21.09:200][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material_19_Auto3.uasset
+[2017.03.06-23.21.09:201][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/material_52] ([1] browsable assets)...
+[2017.03.06-23.21.09:220][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/material_52.material_52]
+[2017.03.06-23.21.09:220][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/material_52]
+[2017.03.06-23.21.09:241][504]LogSavePackage: Save=19.09ms
+[2017.03.06-23.21.09:241][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/material_52_Auto3CAF8BAB645989FC8F01D689D43AACBD7.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material_52_Auto3.uasset'
+[2017.03.06-23.21.09:243][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material_52_Auto3.uasset
+[2017.03.06-23.21.09:243][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/material_56] ([1] browsable assets)...
+[2017.03.06-23.21.09:261][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/material_56.material_56]
+[2017.03.06-23.21.09:261][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/material_56]
+[2017.03.06-23.21.09:282][504]LogSavePackage: Save=18.92ms
+[2017.03.06-23.21.09:282][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/material_56_Auto30402BF5B495E51680BD2748AABAFABC4.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material_56_Auto3.uasset'
+[2017.03.06-23.21.09:284][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/material_56_Auto3.uasset
+[2017.03.06-23.21.09:284][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/material4] ([1] browsable assets)...
+[2017.03.06-23.21.09:301][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/sinksoption2/material4.material4]
+[2017.03.06-23.21.09:302][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/material4]
+[2017.03.06-23.21.09:319][504]LogSavePackage: Save=16.04ms
+[2017.03.06-23.21.09:319][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/material4_Auto3E072A6E64C28C15EC8A7A2834618441F.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/material4_Auto3.uasset'
+[2017.03.06-23.21.09:321][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/material4_Auto3.uasset
+[2017.03.06-23.21.09:322][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/material_112] ([1] browsable assets)...
+[2017.03.06-23.21.09:338][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/sinksoption2/material_112.material_112]
+[2017.03.06-23.21.09:338][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/material_112]
+[2017.03.06-23.21.09:357][504]LogSavePackage: Save=17.21ms
+[2017.03.06-23.21.09:357][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/material_112_Auto3E6F36B11455137B4E5501DA79F05666A.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/material_112_Auto3.uasset'
+[2017.03.06-23.21.09:358][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/material_112_Auto3.uasset
+[2017.03.06-23.21.09:359][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/Stone_Marble] ([1] browsable assets)...
+[2017.03.06-23.21.09:374][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/sinksoption2/Stone_Marble.Stone_Marble]
+[2017.03.06-23.21.09:374][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/Stone_Marble]
+[2017.03.06-23.21.09:397][504]LogSavePackage: Save=21.67ms
+[2017.03.06-23.21.09:397][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Stone_Marble_Auto3EDCB6309425FCBC0D12B6989409886A9.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Stone_Marble_Auto3.uasset'
+[2017.03.06-23.21.09:399][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Stone_Marble_Auto3.uasset
+[2017.03.06-23.21.09:399][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/Color_0017] ([1] browsable assets)...
+[2017.03.06-23.21.09:436][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/sinksoption2/Color_0017.Color_0017]
+[2017.03.06-23.21.09:436][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/Color_0017]
+[2017.03.06-23.21.09:457][504]LogSavePackage: Save=18.71ms
+[2017.03.06-23.21.09:457][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Color_0017_Auto3BCEB30C540FF86FA3E1FBF9ECB9E537A.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Color_0017_Auto3.uasset'
+[2017.03.06-23.21.09:458][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Color_0017_Auto3.uasset
+[2017.03.06-23.21.09:458][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny3] ([1] browsable assets)...
+[2017.03.06-23.21.09:474][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny3.Metal_Corrogated_Shiny3]
+[2017.03.06-23.21.09:474][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny3]
+[2017.03.06-23.21.09:494][504]LogSavePackage: Save=17.72ms
+[2017.03.06-23.21.09:494][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Metal_Corrogated_Shiny3_Auto387A101544A1A3BA304F0FE9F0FF73944.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny3_Auto3.uasset'
+[2017.03.06-23.21.09:495][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny3_Auto3.uasset
+[2017.03.06-23.21.09:496][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny] ([1] browsable assets)...
+[2017.03.06-23.21.09:500][504]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny.Metal_Corrogated_Shiny]
+[2017.03.06-23.21.09:500][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny]
+[2017.03.06-23.21.09:508][504]LogSavePackage: Save=6.83ms
+[2017.03.06-23.21.09:508][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Metal_Corrogated_Shiny_Auto3E26A64BC449E0715B60923A11A01221F.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny_Auto3.uasset'
+[2017.03.06-23.21.09:510][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny_Auto3.uasset
+[2017.03.06-23.21.09:510][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/__Gray6_] ([1] browsable assets)...
+[2017.03.06-23.21.09:525][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/sinksoption2/__Gray6_.__Gray6_]
+[2017.03.06-23.21.09:526][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/__Gray6_]
+[2017.03.06-23.21.09:545][504]LogSavePackage: Save=17.53ms
+[2017.03.06-23.21.09:545][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/__Gray6__Auto31D69B9754079946ED2BF7086E16B2546.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/__Gray6__Auto3.uasset'
+[2017.03.06-23.21.09:546][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/__Gray6__Auto3.uasset
+[2017.03.06-23.21.09:547][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny_1] ([1] browsable assets)...
+[2017.03.06-23.21.09:564][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny_1.Metal_Corrogated_Shiny_1]
+[2017.03.06-23.21.09:564][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny_1]
+[2017.03.06-23.21.09:585][504]LogSavePackage: Save=19.42ms
+[2017.03.06-23.21.09:585][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Metal_Corrogated_Shiny_1_Auto3432CF0144EAAF9AE3452C78E65719DB0.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny_1_Auto3.uasset'
+[2017.03.06-23.21.09:586][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny_1_Auto3.uasset
+[2017.03.06-23.21.09:587][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/Color_007] ([1] browsable assets)...
+[2017.03.06-23.21.09:603][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/sinksoption2/Color_007.Color_007]
+[2017.03.06-23.21.09:603][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/Color_007]
+[2017.03.06-23.21.09:625][504]LogSavePackage: Save=18.56ms
+[2017.03.06-23.21.09:625][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Color_007_Auto31ABC7A8B46783E8670D5A29E7108DB09.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Color_007_Auto3.uasset'
+[2017.03.06-23.21.09:626][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Color_007_Auto3.uasset
+[2017.03.06-23.21.09:627][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/fuygohip] ([1] browsable assets)...
+[2017.03.06-23.21.09:651][504]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/RoomItems/bathroom/sinksoption2/fuygohip.fuygohip]
+[2017.03.06-23.21.09:651][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/fuygohip]
+[2017.03.06-23.21.09:669][504]LogSavePackage: Save=16.24ms
+[2017.03.06-23.21.09:669][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/fuygohip_Auto38434D8C84759D349EDE8339A14252828.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/fuygohip_Auto3.uasset'
+[2017.03.06-23.21.09:673][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/fuygohip_Auto3.uasset
+[2017.03.06-23.21.09:674][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny4] ([1] browsable assets)...
+[2017.03.06-23.21.09:689][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny4.Metal_Corrogated_Shiny4]
+[2017.03.06-23.21.09:689][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny4]
+[2017.03.06-23.21.09:709][504]LogSavePackage: Save=19.03ms
+[2017.03.06-23.21.09:709][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Metal_Corrogated_Shiny4_Auto33A9BB9184591E3E0FDB4CEADBEDB478A.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny4_Auto3.uasset'
+[2017.03.06-23.21.09:711][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny4_Auto3.uasset
+[2017.03.06-23.21.09:712][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/oil_rubbed_bronze] ([1] browsable assets)...
+[2017.03.06-23.21.09:725][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/sinksoption2/oil_rubbed_bronze.oil_rubbed_bronze]
+[2017.03.06-23.21.09:725][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/oil_rubbed_bronze]
+[2017.03.06-23.21.09:746][504]LogSavePackage: Save=19.28ms
+[2017.03.06-23.21.09:746][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/oil_rubbed_bronze_Auto39AC0E2D8470B36CF5DE7F89B9D37B813.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/oil_rubbed_bronze_Auto3.uasset'
+[2017.03.06-23.21.09:748][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/oil_rubbed_bronze_Auto3.uasset
+[2017.03.06-23.21.09:749][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/oil_rubbed_bronze2] ([1] browsable assets)...
+[2017.03.06-23.21.09:749][504]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/RoomItems/bathroom/sinksoption2/oil_rubbed_bronze2.oil_rubbed_bronze2]
+[2017.03.06-23.21.09:749][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/oil_rubbed_bronze2]
+[2017.03.06-23.21.09:757][504]LogSavePackage: Save=5.84ms
+[2017.03.06-23.21.09:757][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/oil_rubbed_bronze2_Auto397588E6C40A91E48B3434C851955CFEE.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/oil_rubbed_bronze2_Auto3.uasset'
+[2017.03.06-23.21.09:758][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/oil_rubbed_bronze2_Auto3.uasset
+[2017.03.06-23.21.09:758][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/copper_framing] ([1] browsable assets)...
+[2017.03.06-23.21.09:774][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/sinksoption2/copper_framing.copper_framing]
+[2017.03.06-23.21.09:774][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/copper_framing]
+[2017.03.06-23.21.09:796][504]LogSavePackage: Save=20.07ms
+[2017.03.06-23.21.09:796][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/copper_framing_Auto3BF245C7546850703A88A18B50EA925FB.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/copper_framing_Auto3.uasset'
+[2017.03.06-23.21.09:797][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/copper_framing_Auto3.uasset
+[2017.03.06-23.21.09:798][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/copper_framing2] ([1] browsable assets)...
+[2017.03.06-23.21.09:799][504]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/RoomItems/bathroom/sinksoption2/copper_framing2.copper_framing2]
+[2017.03.06-23.21.09:799][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/copper_framing2]
+[2017.03.06-23.21.09:807][504]LogSavePackage: Save=6.55ms
+[2017.03.06-23.21.09:808][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/copper_framing2_Auto3796D2EB24E974B777C1DE99C5F66A657.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/copper_framing2_Auto3.uasset'
+[2017.03.06-23.21.09:810][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/copper_framing2_Auto3.uasset
+[2017.03.06-23.21.09:811][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny_Mat] ([1] browsable assets)...
+[2017.03.06-23.21.09:851][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny_Mat.Metal_Corrogated_Shiny_Mat]
+[2017.03.06-23.21.09:852][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny_Mat]
+[2017.03.06-23.21.09:873][504]LogSavePackage: Save=18.81ms
+[2017.03.06-23.21.09:873][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Metal_Corrogated_Shiny_Mat_Auto3D5EF52C3419F4E31E537CE98B8BDE114.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny_Mat_Auto3.uasset'
+[2017.03.06-23.21.09:874][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/bathroom/sinksoption2/Metal_Corrogated_Shiny_Mat_Auto3.uasset
+[2017.03.06-23.21.09:875][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RoomItems/newmaterials/imgres_Mat] ([1] browsable assets)...
+[2017.03.06-23.21.09:891][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/RoomItems/newmaterials/imgres_Mat.imgres_Mat]
+[2017.03.06-23.21.09:891][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/RoomItems/newmaterials/imgres_Mat]
+[2017.03.06-23.21.09:915][504]LogSavePackage: Save=17.83ms
+[2017.03.06-23.21.09:915][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/imgres_Mat_Auto3191E46074FC6F11C22F9A98A5B6C2E57.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/newmaterials/imgres_Mat_Auto3.uasset'
+[2017.03.06-23.21.09:917][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/RoomItems/newmaterials/imgres_Mat_Auto3.uasset
+[2017.03.06-23.21.09:918][504]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Materials/M_Concrete_Tiles] ([1] browsable assets)...
+[2017.03.06-23.21.09:933][504]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles]
+[2017.03.06-23.21.09:933][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Concrete_Tiles]
+[2017.03.06-23.21.09:973][504]LogSavePackage: Save=31.14ms
+[2017.03.06-23.21.09:973][504]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/M_Concrete_Tiles_Auto3858A0DBE4FDE7B79C02B2793E39A365A.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/StarterContent/Materials/M_Concrete_Tiles_Auto3.uasset'
+[2017.03.06-23.21.09:974][504]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/StarterContent/Materials/M_Concrete_Tiles_Auto3.uasset
+[2017.03.06-23.21.09:974][504]LogFileHelpers: Auto-saving content packages took 1.822
+[2017.03.06-23.23.12:872][948]LightingResults:Warning: Warning sinks Object has overlapping UVs.
+[2017.03.06-23.23.12:872][948]LightingResults: Info sinks Lightmap UV are overlapping by 4.8%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.16:176][ 14]LightingResults:Warning: Warning sink Object has wrapping UVs.
+[2017.03.06-23.23.16:176][ 14]LightingResults:Warning: Warning sink Object has overlapping UVs.
+[2017.03.06-23.23.16:176][ 14]LightingResults: Info sink Lightmap UV are overlapping by 97.9%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.16:620][ 23]LightingResults:Warning: Warning mirr Object has wrapping UVs.
+[2017.03.06-23.23.16:620][ 23]LightingResults:Warning: Warning mirr Object has overlapping UVs.
+[2017.03.06-23.23.16:620][ 23]LightingResults: Info mirr Lightmap UV are overlapping by 90.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.18:216][ 55]LightingResults:Warning: Warning kit Object has wrapping UVs.
+[2017.03.06-23.23.18:216][ 55]LightingResults:Warning: Warning kit Object has overlapping UVs.
+[2017.03.06-23.23.18:216][ 55]LightingResults: Info kit Lightmap UV are overlapping by 99.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.18:567][ 62]LightingResults:Warning: Warning fireplace Object has overlapping UVs.
+[2017.03.06-23.23.18:567][ 62]LightingResults: Info fireplace Lightmap UV are overlapping by 5.6%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.18:819][ 67]LightingResults:Warning: Warning clocks Object has overlapping UVs.
+[2017.03.06-23.23.18:819][ 67]LightingResults: Info clocks Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.18:869][ 68]LightingResults:Warning: Warning clocks Object has overlapping UVs.
+[2017.03.06-23.23.18:869][ 68]LightingResults: Info clocks Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.18:919][ 69]LightingResults:Warning: Warning clocks Object has overlapping UVs.
+[2017.03.06-23.23.18:919][ 69]LightingResults: Info clocks Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.19:020][ 71]LightingResults:Warning: Warning clocks Object has overlapping UVs.
+[2017.03.06-23.23.19:020][ 71]LightingResults: Info clocks Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.19:020][ 71]LightingResults:Warning: Warning clocks Object has overlapping UVs.
+[2017.03.06-23.23.19:020][ 71]LightingResults: Info clocks Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.19:070][ 72]LightingResults:Warning: Warning clocks Object has overlapping UVs.
+[2017.03.06-23.23.19:070][ 72]LightingResults: Info clocks Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.19:070][ 72]LightingResults:Warning: Warning clocks Object has overlapping UVs.
+[2017.03.06-23.23.19:070][ 72]LightingResults: Info clocks Lightmap UV are overlapping by 83.3%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.22:120][133]LightingResults:Warning: Warning chessd Object has wrapping UVs.
+[2017.03.06-23.23.22:120][133]LightingResults:Warning: Warning chessd Object has overlapping UVs.
+[2017.03.06-23.23.22:120][133]LightingResults: Info chessd Lightmap UV are overlapping by 22.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.22:271][136]LightingResults:Warning: Warning chessd Object has wrapping UVs.
+[2017.03.06-23.23.22:271][136]LightingResults:Warning: Warning chessd Object has overlapping UVs.
+[2017.03.06-23.23.22:271][136]LightingResults: Info chessd Lightmap UV are overlapping by 22.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.22:572][142]LightingResults:Warning: Warning chessd Object has wrapping UVs.
+[2017.03.06-23.23.22:572][142]LightingResults:Warning: Warning chessd Object has overlapping UVs.
+[2017.03.06-23.23.22:572][142]LightingResults: Info chessd Lightmap UV are overlapping by 22.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:662][644]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:662][644]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:662][644]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:712][645]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:712][645]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:712][645]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:712][645]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:712][645]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:712][645]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:712][645]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:762][646]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:762][646]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:762][646]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:762][646]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:762][646]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:762][646]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:762][646]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:812][647]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:812][647]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:812][647]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:812][647]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:812][647]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:812][647]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:812][647]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:813][647]LightingResults:Warning: Warning SM_BackgroundHouses_A Object has overlapping UVs.
+[2017.03.06-23.23.47:813][647]LightingResults: Info SM_BackgroundHouses_A Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:813][647]LightingResults:Warning: Warning SM_BackgroundHouses_A Object has overlapping UVs.
+[2017.03.06-23.23.47:813][647]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:813][647]LightingResults: Info SM_BackgroundHouses_A Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:813][647]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:813][647]LightingResults:Warning: Warning SM_BackgroundHouses_A Object has overlapping UVs.
+[2017.03.06-23.23.47:813][647]LightingResults: Info SM_BackgroundHouses_A Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:813][647]LightingResults:Warning: Warning SM_BackgroundHouses_A Object has overlapping UVs.
+[2017.03.06-23.23.47:813][647]LightingResults: Info SM_BackgroundHouses_A Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:813][647]LightingResults:Warning: Warning SM_BackgroundHouses_A Object has overlapping UVs.
+[2017.03.06-23.23.47:813][647]LightingResults:Warning: Warning SM_BackgroundHouses_A Object has overlapping UVs.
+[2017.03.06-23.23.47:813][647]LightingResults: Info SM_BackgroundHouses_A Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:813][647]LightingResults: Info SM_BackgroundHouses_A Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:813][647]LightingResults:Warning: Warning SM_BackgroundHouses_A Object has overlapping UVs.
+[2017.03.06-23.23.47:813][647]LightingResults:Warning: Warning SM_BackgroundHouses_A Object has overlapping UVs.
+[2017.03.06-23.23.47:863][648]LightingResults: Info SM_BackgroundHouses_A Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:863][648]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:863][648]LightingResults: Info SM_BackgroundHouses_A Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:863][648]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:863][648]LightingResults:Warning: Warning SM_BackgroundHouses_A Object has overlapping UVs.
+[2017.03.06-23.23.47:863][648]LightingResults: Info SM_BackgroundHouses_A Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:863][648]LightingResults:Warning: Warning SM_BackgroundHouses_A Object has overlapping UVs.
+[2017.03.06-23.23.47:863][648]LightingResults: Info SM_BackgroundHouses_A Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:863][648]LightingResults:Warning: Warning SM_BackgroundHouses_A Object has overlapping UVs.
+[2017.03.06-23.23.47:863][648]LightingResults: Info SM_BackgroundHouses_A Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:864][648]LightingResults:Warning: Warning SM_BackgroundHouses_A Object has overlapping UVs.
+[2017.03.06-23.23.47:864][648]LightingResults: Info SM_BackgroundHouses_A Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:864][648]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:864][648]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:914][649]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:914][649]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:914][649]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:914][649]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.47:914][649]LightingResults:Warning: Warning SM_Clouds_A Object has overlapping UVs.
+[2017.03.06-23.23.47:914][649]LightingResults: Info SM_Clouds_A Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2017.03.06-23.23.57:326][838]Job is a success!
+[2017.03.06-23.23.58:567][839]LightingResults:Error: Error PointLight9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.03.06-23.23.58:568][839]LightingResults:Error: Error PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.03.06-23.23.58:568][839]LightingResults:Error: Error PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.03.06-23.23.58:568][839]LightingResults:Error: Error PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.03.06-23.23.58:568][839]LightingResults:Error: Error PointLight7_5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.03.06-23.23.58:568][839]LightingResults:Error: Error PointLight18_3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.03.06-23.23.58:568][839]LightingResults:Error: Error PointLight_2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion0_4 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap0_4 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_0_4 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion0_5 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap0_5 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_0_5 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion1_6 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap1_6 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_1_6 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion1_7 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap1_7 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_1_7 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion1_8 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap1_8 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_1_8 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion1_9 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap1_9 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_1_9 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion0_10 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap0_10 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_0_10 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion0_11 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap0_11 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_0_11 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion0_12 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap0_12 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_0_12 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion0_13 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap0_13 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_0_13 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion0_14 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap0_14 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_0_14 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion0_15 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap0_15 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_0_15 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion0_16 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap0_16 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_0_16 (DXT1)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: SkyOcclusion0_17 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: HQ_Lightmap0_17 (AutoDXT)
+[2017.03.06-23.24.05:613][839]LogTexture:Display: Building textures: LQ_Lightmap_0_17 (DXT1)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_32 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_33 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_34 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_35 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_36 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_37 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_38 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_39 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_40 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_41 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_42 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_43 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_44 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_45 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_46 (BGRA8)
+[2017.03.06-23.24.09:153][839]LogTexture:Display: Building textures: ShadowMapTexture2D_47 (BGRA8)
+[2017.03.06-23.24.09:198][839]Lightmass on LUKESDINER: 5:26 min total, 4.59 sec importing, 6.22 sec setup, 30.6 sec photons, 4:44 min processing, 0 ms extra exporting [1285/1285 mappings]. Threads: 33:11 min total, 26:19 min processing.
+[2017.03.06-23.24.09:398][839]LogStaticLightingSystem: Illumination: 6:13 min (7.04 sec encoding lightmaps, 3.55 sec encoding shadowmaps)
+[2017.03.06-23.24.09:398][839]LogStaticLightingSystem: Lightmap texture memory:  54.1 MB (54.0 MB streaming, 0.0 MB non-streaming), 34 textures
+[2017.03.06-23.24.09:398][839]LogStaticLightingSystem: Shadowmap texture memory: 85.4 MB (85.3 MB streaming, 0.0 MB non-streaming), 16 textures
+[2017.03.06-23.24.36:131][839]DumpUnbuiltLightIteractions
+[2017.03.06-23.24.36:131][839]Lights with unbuilt interactions: 0
+[2017.03.06-23.24.36:131][839]
+[2017.03.06-23.24.36:131][839]Primitives with unbuilt interactions: 0
+[2017.03.06-23.24.36:147][840]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.03.06-23.24.36:148][840]MapCheck: New page: FirstPersonExampleMap - Mar 6, 2017, 1:24:36 PM
+[2017.03.06-23.24.36:440][840]MapCheck:Warning: Performance Warning arst2_5 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2017.03.06-23.24.36:440][840]MapCheck:Warning: Warning arst2_5 Skeletal mesh actor has NULL SkeletalMesh property 
+[2017.03.06-23.24.36:440][840]MapCheck:Warning: Performance Warning arst_5 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2017.03.06-23.24.36:440][840]MapCheck:Warning: Warning arst_5 Skeletal mesh actor has NULL SkeletalMesh property 
+[2017.03.06-23.24.36:440][840]MapCheck:Warning: Performance Warning art_2 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2017.03.06-23.24.36:440][840]MapCheck:Warning: Warning art_2 Skeletal mesh actor has NULL SkeletalMesh property 
+[2017.03.06-23.24.36:440][840]MapCheck:Warning: Performance Warning robobunny_3 /Game/RoomItems/robobunny/robobunny.robobunny : Large actor casts a shadow and will cause an extreme performance hit unless shadow casting is disabled 
+[2017.03.06-23.24.36:441][840]MapCheck:Warning: Warning mirr2_2 Static mesh actor has NULL StaticMesh property 
+[2017.03.06-23.24.36:441][840]MapCheck:Warning: Warning mirr2_2 Static mesh actor has NULL StaticMesh property 
+[2017.03.06-23.24.36:441][840]MapCheck:Warning: Warning mirr_44 Static mesh actor has NULL StaticMesh property 
+[2017.03.06-23.24.36:441][840]MapCheck:Warning: Warning mirr_44 Static mesh actor has NULL StaticMesh property 
+[2017.03.06-23.24.36:441][840]MapCheck:Warning: Warning Pond Static mesh actor has NULL StaticMesh property 
+[2017.03.06-23.24.36:441][840]MapCheck:Warning: Warning Pond Static mesh actor has NULL StaticMesh property 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A10_167 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A11_170 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A12_173 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A13_176 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A14_179 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A15_182 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A16_185 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A17_188 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A18_191 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A2_143 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A3_146 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A4_149 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A5_152 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A6_155 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:442][840]MapCheck:Warning: Warning SM_Clouds_A7_158 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:443][840]MapCheck:Warning: Warning SM_Clouds_A8_161 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:443][840]MapCheck:Warning: Warning SM_Clouds_A9_164 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:443][840]MapCheck:Warning: Warning SM_Clouds_A_140 Collision enabled but StaticMesh (SM_Clouds_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:443][840]MapCheck:Warning: Warning SM_Couch4_2 Static mesh actor has NULL StaticMesh property 
+[2017.03.06-23.24.36:443][840]MapCheck:Warning: Warning SM_Couch4_2 Static mesh actor has NULL StaticMesh property 
+[2017.03.06-23.24.36:444][840]MapCheck:Warning: Warning SM_Water_Waves_43 Collision enabled but StaticMesh (SM_Water_Waves) has no simple or complex collision. 
+[2017.03.06-23.24.36:444][840]MapCheck:Warning: Warning SM_Water_Waves_A2 Collision enabled but StaticMesh (SM_Water_Waves_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:444][840]MapCheck:Warning: Warning SM_Water_Waves_A3 Collision enabled but StaticMesh (SM_Water_Waves_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:444][840]MapCheck:Warning: Warning SM_Water_Waves_A4 Collision enabled but StaticMesh (SM_Water_Waves_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:444][840]MapCheck:Warning: Warning SM_Water_Waves_A5 Collision enabled but StaticMesh (SM_Water_Waves_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:444][840]MapCheck:Warning: Warning SM_Water_Waves_A_29 Collision enabled but StaticMesh (SM_Water_Waves_A) has no simple or complex collision. 
+[2017.03.06-23.24.36:444][840]MapCheck:Warning: Warning SM_Water_Waves_B2 Collision enabled but StaticMesh (SM_Water_Waves_B) has no simple or complex collision. 
+[2017.03.06-23.24.36:444][840]MapCheck:Warning: Warning SM_Water_Waves_B3 Collision enabled but StaticMesh (SM_Water_Waves_B) has no simple or complex collision. 
+[2017.03.06-23.24.36:444][840]MapCheck:Warning: Warning SM_Water_Waves_B4 Collision enabled but StaticMesh (SM_Water_Waves_B) has no simple or complex collision. 
+[2017.03.06-23.24.36:444][840]MapCheck:Warning: Warning SM_Water_Waves_B5 Collision enabled but StaticMesh (SM_Water_Waves_B) has no simple or complex collision. 
+[2017.03.06-23.24.36:444][840]MapCheck:Warning: Warning SM_Water_Waves_B_36 Collision enabled but StaticMesh (SM_Water_Waves_B) has no simple or complex collision. 
+[2017.03.06-23.24.36:562][840]MapCheck: Info Map check complete: 0 Error(s), 44 Warning(s), took 414.06ms to complete.
+[2017.03.06-23.31.49:404][640]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning Node  K2Node_Literal_118  is not referencing a valid level actor
+[2017.03.06-23.31.49:406][640]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [3795.44] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 1 Warning(s) [in 11 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.31.49:406][640]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [3795.44] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 2 Warning(s) [in 0 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.31.49:406][640]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [3795.44] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 3 Warning(s) [in 0 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.31.49:461][640]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [3795.50] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 4 Warning(s) [in 54 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.31.49:461][640]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [3795.50] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 5 Warning(s) [in 0 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.31.49:461][640]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [3795.50] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 6 Warning(s) [in 0 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.31.50:893][640]LogSavePackage: Save=1505.98ms
+[2017.03.06-23.31.50:893][640]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/FirstPersonExampleMap_Auto4A1FD0F3E463C5FF8D958C2B804233598.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2017.03.06-23.31.50:896][640]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap
+[2017.03.06-23.31.51:150][640]LogSavePackage: Save=152.88ms
+[2017.03.06-23.31.51:150][640]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/FirstPersonExampleMap_BuiltData5AB41F5247DF6AF90CECB48DC44052C6.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2017.03.06-23.31.51:189][640]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2017.03.06-23.31.51:190][640]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.850
+[2017.03.06-23.31.51:190][640]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.850
+[2017.03.06-23.36.34:695][110]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2017.03.06-23.36.55:040][704]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (tub)
+[2017.03.06-23.36.59:255][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_AssetPlatform)
+[2017.03.06-23.37.11:066][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door3)
+[2017.03.06-23.37.14:916][299]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x303)
+[2017.03.06-23.37.17:772][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.06-23.37.23:196][541]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.03.06-23.38.03:302][  7]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning Node  K2Node_Literal_118  is not referencing a valid level actor
+[2017.03.06-23.38.03:303][  7]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [4169.34] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 1 Warning(s) [in 7 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.38.03:303][  7]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [4169.34] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 2 Warning(s) [in 0 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.38.03:303][  7]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [4169.34] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 3 Warning(s) [in 0 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.38.03:358][  7]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [4169.40] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 4 Warning(s) [in 54 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.38.03:358][  7]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [4169.40] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 5 Warning(s) [in 0 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.38.03:358][  7]LogBlueprint:Warning: [Compiler PersistentLevel.FirstPersonExampleMap] Warning [4169.40] Compile of PersistentLevel.FirstPersonExampleMap successful, but with 6 Warning(s) [in 0 ms] (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap)
+[2017.03.06-23.38.04:811][  7]LogSavePackage: Save=1522.12ms
+[2017.03.06-23.38.04:811][  7]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/FirstPersonExampleMap0B8670FC48892ABED9611EB8A96F5A9A.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2017.03.06-23.38.04:824][  7]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2017.03.06-23.38.07:679][  7]LogSavePackage: Save=2742.55ms
+[2017.03.06-23.38.07:679][  7]LogSavePackage: Moving '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Saved/FirstPersonExampleMap_BuiltData29B37DB9402920C334A9438BC93E5401.tmp' to '../../../../../../Users/Lexus Avila/Documents/Unreal Projects/DownTheRabbitHole/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
